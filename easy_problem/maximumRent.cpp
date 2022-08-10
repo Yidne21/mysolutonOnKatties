@@ -10,5 +10,5 @@ int main()
     x = pow((kf - of), 2);
     y = pow((kf1 - of1), 2);
     d = sqrt(x + y);
-    cout << fixed << setprecision(6) << d << endl;
+    cout << fixed << setprecision() << d << endl;
 }
