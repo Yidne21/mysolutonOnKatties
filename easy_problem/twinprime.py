@@ -8,7 +8,10 @@ def is_prime(n):
             isprime = False
     return isprime
 
+
 hashmap = {}
+
+
 def main():
     r = 20000000
     l = []
